@@ -207,6 +207,62 @@
     justify-content: center;
 }
 
+/* Contact */
+
+.contact{
+    background-color: #FCF2F5;
+    margin-bottom: 100px;
+}
+
+.contact .row{
+    align-items: center;
+}
+
+.contact .img-content{
+    width: 60%;
+}
+
+.contact .img-content img{
+    width: 100%;
+    height: auto;
+    border-radius: 0 200px 0 0;
+}
+
+.contact .text-content{
+    width: 40%;
+    height: 100%;
+    padding-left: 30px;
+}
+
+.contact .text-content h1{
+    font-weight: 900;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.contact .text-content .contact-details{
+    margin-bottom: 40px;
+}
+
+.contact .text-content .contact-details .address{
+    width: 50%;
+    padding-right: 60px;
+}
+
+.contact .text-content .contact-details .address .shop-name{
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.contact .text-content .contact-details .contacts{
+    width: 50%;
+}
+
+.contact .text-content .contact-details .contacts p{
+    padding-bottom: 5px;
+}
+
 /* Subscription Form */
 .subcription{
     margin-bottom: 100px;
